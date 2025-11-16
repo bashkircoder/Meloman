@@ -1,0 +1,19 @@
+﻿@model Music.ViewModels.AdminUpdateArtist
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="AdminArtist" asp-action="Update" enctype="multipart/form-data">
+            <input type="hidden" asp-for="@Model.Artist.Id"/>
+            <div class="form-group">
+                <input asp-for="@Model.Artist.Name" />
+            </div>
+            <label asp-for="File" class="form-label">Обновить обложку артиста</label>
+            <input asp-for="File" class="form-control" placeholder="https://example.com/image.jpg" />
+            <input type="hidden" asp-for="@Model.Artist.Albums"/>
+            <input type="hidden" asp-for="@Model.Artist.UrlImg"/>
+            <div class="form-group">
+                <input type="submit" value="Отредактировать" />
+            </div>
+        </form>
+    </div>
+</div>

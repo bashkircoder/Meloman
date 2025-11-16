@@ -1,0 +1,321 @@
+2025-11-14 22:45:51 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:45:51 model=Music.ViewModels.HomeViewModel&
+2025-11-14 22:45:53 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:48:35 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:48:35 model=Music.ViewModels.HomeViewModel&
+2025-11-14 22:48:37 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:50:29 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:50:29 model=Music.ViewModels.HomeViewModel&
+2025-11-14 22:50:31 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:53:33 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:53:35 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:54:05 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:54:08 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:54:47 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:54:49 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:56:35 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 22:56:35 model=Music.ViewModels.HomeViewModel&
+2025-11-14 22:56:37 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:05:23 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:05:23 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:05:24 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:06:12 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:06:12 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:06:14 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:06:38 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:06:38 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:06:40 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:09:51 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:09:51 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:09:52 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:10:24 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:10:24 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:12:19 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:16:48 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:16:48 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:16:50 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:17:32 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:17:32 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:17:34 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:17:36 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:17:36 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:20:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:25:19 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:25:19 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:25:21 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:25:30 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:25:30 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:25:30 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:30:57 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:30:57 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:30:58 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:31:21 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:31:21 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:31:23 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:48:44 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:48:44 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:48:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:49:43 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:49:43 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:49:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:49:50 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:49:50 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:49:50 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:50:34 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:50:34 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:50:36 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:50:39 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:50:39 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:50:39 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:54:00 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:00 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:02 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:04 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:54:04 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:04 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:54:27 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:27 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:30 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:31 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:54:31 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:31 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:54:31 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:31 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:31 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:54:37 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:54:37 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:54:37 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:55:41 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:55:41 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:55:42 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:55:47 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:55:47 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:55:47 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:55:47 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:55:47 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:55:47 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:57:40 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:57:40 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:57:42 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:57:45 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:57:45 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:57:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-14 23:57:45 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:57:45 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:57:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-14 23:58:04 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-14 23:58:04 model=Music.ViewModels.HomeViewModel&
+2025-11-14 23:58:04 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:02:06 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:02:06 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:02:08 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:02:11 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:02:11 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:02:11 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:03:00 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:03:00 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:03:02 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:03:06 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:03:06 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:03:06 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:03:56 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:03:56 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:03:58 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:03:59 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:03:59 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:04:01 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:04:08 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:04:08 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:04:10 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:32:53 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:32:53 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:32:55 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:32:57 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:32:57 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:32:57 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:32:57 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:32:57 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:32:58 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:33:05 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:33:05 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:33:05 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:38:35 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:38:35 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:38:36 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:38:38 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:38:38 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:38:38 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:38:38 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:38:38 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:38:38 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:38:40 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:38:40 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:38:40 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:39:02 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:02 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:04 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:07 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:07 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:07 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:09 Начало выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:39:09 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:09 Завершение выполнения конечной точки: Music.Controllers.HomeController.RemoveArtistFromFavorites (Music)
+2025-11-15 00:39:25 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:25 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:26 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:42 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:42 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:42 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:54 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:39:54 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:39:55 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:18 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:18 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:40:21 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:24 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:24 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:40:24 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:42 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:40:42 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:40:44 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:22 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:22 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:45:24 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:26 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:45:26 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:45:26 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 00:45:44 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:44 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:45:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:57 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:45:57 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:45:57 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:09 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:09 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:46:11 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:15 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:15 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:46:15 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:24 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:46:24 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:46:26 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:25 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:26 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:47:27 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:30 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:30 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:47:30 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:38 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 00:47:38 model=Music.ViewModels.HomeViewModel&
+2025-11-15 00:47:40 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:39:51 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:39:51 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:39:52 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:40:08 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 15:40:08 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:40:08 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 15:40:49 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:40:49 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:40:50 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:40:54 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:40:54 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:40:54 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:06 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:06 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:41:08 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:16 Начало выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 15:41:16 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:41:16 Завершение выполнения конечной точки: Music.Controllers.HomeController.AddArtistToFavorites (Music)
+2025-11-15 15:41:26 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:26 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:41:28 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:34 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:34 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:41:34 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:43 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:41:43 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:41:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:42:24 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:42:24 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:42:27 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:42:28 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 15:42:28 model=Music.ViewModels.HomeViewModel&
+2025-11-15 15:42:28 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:07:51 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:07:51 model=Music.ViewModels.HomeViewModel&
+2025-11-15 16:07:53 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:07:55 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:07:55 isFavorite=False&artistId=3&
+2025-11-15 16:08:03 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:08:26 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:08:26 model=Music.ViewModels.HomeViewModel&
+2025-11-15 16:08:28 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:08:31 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:08:31 isFavorite=True&artistId=3&
+2025-11-15 16:08:31 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:08:41 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:08:41 model=Music.ViewModels.HomeViewModel&
+2025-11-15 16:08:43 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:10:41 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:10:44 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:10:46 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:10:46 isFavorite=False&artistId=3&
+2025-11-15 16:12:03 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:12:05 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:12:29 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:12:29 isFavorite=False&artistId=3&
+2025-11-15 16:13:54 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:13:56 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:14:31 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:14:31 isFavorite=False&artistId=3&
+2025-11-15 16:14:31 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:14:56 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:14:57 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:24:07 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:24:09 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:24:11 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:24:11 isFavorite=True&artistId=3&
+2025-11-15 16:24:11 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:24:11 Начало выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:24:11 Завершение выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:24:16 Начало выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:24:16 artistName=&
+2025-11-15 16:24:16 Завершение выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:25:48 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:25:50 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:25:53 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:25:53 isFavorite=False&artistId=4&
+2025-11-15 16:25:54 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:25:54 Начало выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:25:54 Завершение выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:26:01 Начало выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:26:01 Завершение выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:27:55 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:27:57 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:28:02 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:28:02 isFavorite=False&artistId=3&
+2025-11-15 16:28:02 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:28:02 Начало выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:28:02 Завершение выполнения конечной точки: Music.Controllers.TestController.Index (Music)
+2025-11-15 16:28:04 Начало выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:28:04 Завершение выполнения конечной точки: Music.Controllers.TestController.Redir (Music)
+2025-11-15 16:40:48 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:40:51 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:45:10 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:45:12 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:46:33 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:46:36 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:47:07 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:47:10 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:51:35 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:51:38 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:51:40 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:51:40 isFavorite=True&artistId=3&
+2025-11-15 16:51:45 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:53:33 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:53:35 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:53:37 Начало выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:53:37 isFavorite=False&artistId=3&
+2025-11-15 16:53:37 Завершение выполнения конечной точки: Music.Controllers.HomeController.Favorites (Music)
+2025-11-15 16:53:52 Начало выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
+2025-11-15 16:53:54 Завершение выполнения конечной точки: Music.Controllers.HomeController.Index (Music)
